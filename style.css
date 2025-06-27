@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LevelNext Player</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>LevelNext Player</h1>
+    <p>Your Game, Your Identity — On and Off the Field</p>
+  </header>
+
+  <h2>Player Introduction</h2>
+  <p><strong>Name:</strong> [Player Name]</p>
+  <p><strong>Role:</strong> Batsman</p>
+  <p><strong>Strengths:</strong> Fast footwork, timing, game awareness</p>
+
+  <h2>Likes & Dislikes</h2>
+  <ul>
+    <li><strong>Favorite Shot:</strong> Cover Drive</li>
+    <li><strong>Preferred Opponent:</strong> Spin Bowlers</li>
+    <li><strong>Dislikes:</strong> Wet outfield and defensive play</li>
+    <li><strong>Pre-Match Routine:</strong> Wrist warm-ups & visualization</li>
+  </ul>
+
+  <h2>Player Personality & Preferences</h2>
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Favourite</th>
+      <th>Least Favourite</th>
+    </tr>
+    <tr>
+      <td>Color</td>
+      <td>Blue</td>
+      <td>Orange</td>
+    </tr>
+    <tr>
+      <td>Movie</td>
+      <td>MS Dhoni: The Untold Story</td>
+      <td>Horror films</td>
+    </tr>
+    <tr>
+      <td>Subject</td>
+      <td>Mathematics</td>
+      <td>History</td>
+    </tr>
+    <tr>
+      <td>Food</td>
+      <td>Chicken Biryani</td>
+      <td>Spinach</td>
+    </tr>
+    <tr>
+      <td>Sports Moment</td>
+      <td>Winning the school final</td>
+      <td>Getting run out at 99</td>
+    </tr>
+  </table>
+
+  <h2>Math Behind My Cover Drive</h2>
+  <p>The cover drive is about precision and timing. My bat swing follows a ~45° angle, using body momentum and kinetic energy transfer.</p>
+  <p><strong>Formula:</strong> Force = Mass × Acceleration</p>
+  <p>I optimize bat speed (~24 m/s), striking just before peak momentum. Follow-through arc: ~60° for power & control.</p>
+
+  <h2>Performance Stats</h2>
+  <table>
+    <tr>
+      <th>Shot</th>
+      <th>Comfort Level (1–5)</th>
+      <th>Accuracy (%)</th>
+    </tr>
+    <tr>
+      <td>Cover Drive</td>
+      <td>5</td>
+      <td>92%</td>
+    </tr>
+    <tr>
+      <td>Pull Shot</td>
+      <td>4</td>
+      <td>78%</td>
+    </tr>
+    <tr>
+      <td>Hook Shot</td>
+      <td>3</td>
+      <td>65%</td>
+    </tr>
+  </table>
+
+  <h2>Motivational Quote</h2>
+  <blockquote>
+    "I don’t play to survive—I play to control the game from the start."
+  </blockquote>
+
+  <footer>
+    &copy; 2025 LevelNext Player | Designed with heart and hustle
+  </footer>
+
+</body>
+</html>
