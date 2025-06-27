@@ -57,7 +57,7 @@ This site is hosted freely using **GitHub Pages**. To view it live, visit:
 ## 📬 Contact
 
 To contribute or get in touch:  
-📧 [your-email@example.com]  
+📧 [hacktronicals@gmail.com]  
 💬 Open an issue or pull request on GitHub
 
 ---
