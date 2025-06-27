@@ -1,6 +1,6 @@
 # LevelNext Player
 
-**Live Site:** [https://levelnextplayer.github.io](https://levelnextplayer.github.io)  
+**Live Site:** [https://levelnextsports.github.io](https://levelnextsports.github.io)  
 **Tagline:** Your Game, Your Identity — On and Off the Field
 
 ## 🏏 What is LevelNext Player?
